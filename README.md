@@ -34,13 +34,20 @@ When the user click on Checkout button, they are taken to Checkout.jsp page. Thi
 
 ![Screenshot (6)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/261a7b07-064f-4f92-97a5-3b3f46124acf)
 
+# database tables
+Now comming to the database part, there are some tables I used to store the data. Here I used the mysql database which is connected to the java using JDBC.
+
+Following are the tables which were created in the database:
+
+![Screenshot (7)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/232224c0-df80-4f64-910c-9927ae86cefa)
+
 # customer table
 
 ![Screenshot (8)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/78c31328-a87f-40b1-99bd-d6b735a3ef86)
 
 # drink table
 
-![Screenshot (10)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/57a85d67-f0cd-4e8c-a41a-9d7c1410ed1a
+![Screenshot (10)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/99f183ec-c408-4a7d-9bcb-3744432301f7)
 
 # food table
 
@@ -64,9 +71,3 @@ When the user click on Checkout button, they are taken to Checkout.jsp page. Thi
 
 
 
-# database tables
-Now comming to the database part, there are some tables I used to store the data. Here I used the mysql database which is connected to the java using JDBC.
-
-Following are the tables which were created in the database:
-
-![Screenshot (7)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/232224c0-df80-4f64-910c-9927ae86cefa)
