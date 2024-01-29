@@ -27,7 +27,7 @@ https://github.com/vishud123/Food-Ordering-Website/assets/158056998/e6bfeb18-7ab
 # Cart Page
 When the user click on Cart button, they are taken them to cart.jsp where the added items are shown with their name, price per item, quantity and total price. On the navigation bar there are three buttons one is for to continue shopping or to add more items in cart, one is for to confirm order and other is for logout.
 
-![Screenshot (5)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/154d32f8-8a66-46aa-8d87-624ba0c656f0)
+![Screenshot (14)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/5aafec79-6430-4010-9aa9-6e1df6220a27)
 
 # Checkout Page
 When the user click on Checkout button, they are taken to Checkout.jsp page. This page shows the order_id of user, reaching time of order and the total amount to pay and there is only one option to out from this page is logout.
