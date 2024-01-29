@@ -5,3 +5,7 @@ I create this project after complition of my java full statck training to unders
 
 i will now walk you through the different webpages and features of the website. All the images used for the project were copyright free when I used them. If they do belong to someone let me know and i will remove them.
 
+# Login Page
+This is a simple Login form which is created using the HTML for frontend and uses 'post' method to pass on the form values to LoginCheck.java for validating login. If the user don't have an existing account then they can also rgister a new account. 
+
+
