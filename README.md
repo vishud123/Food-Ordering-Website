@@ -34,6 +34,9 @@ When the user click on Checkout button, they are taken to Checkout.jsp page. Thi
 
 ![Screenshot (6)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/261a7b07-064f-4f92-97a5-3b3f46124acf)
 
+
+
+
 # database tables
 Now comming to the database part, there are some tables I used to store the data. Here I used the mysql database which is connected to the java using JDBC.
 
@@ -42,32 +45,32 @@ Following are the tables which were created in the database:
 ![Screenshot (7)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/232224c0-df80-4f64-910c-9927ae86cefa)
 
 # customer table
-Schema is as follows
+Schema is as follows:
 
 ![Screenshot (8)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/79e574f4-5871-410d-a486-5390e812e935)
 
 # drink table
-Schema is as follows
+Schema is as follows:
 
 ![Screenshot (10)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/99f183ec-c408-4a7d-9bcb-3744432301f7)
 
 # food table
-Schema is as follows
+Schema is as follows:
 
 ![Screenshot (11)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/ff42cdd8-fcc6-41ac-acf4-41fbe8e61fd5)
 
 # drinkorder table
-Schema is as follows
+Schema is as follows:
 
 ![Screenshot (9)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/f71f55c0-e1fd-4295-85f1-6298d4e869be)
 
 # foodorder table
-Schema is as follows
+Schema is as follows:
 
 ![Screenshot (12)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/4cb68894-c10b-43a7-95e5-9177327c96b8)
 
 # totalorder
-Schema is as follows
+Schema is as follows:
 
 ![Screenshot (13)](https://github.com/vishud123/Food-Ordering-Website/assets/158056998/a70a55fe-961f-4507-a2c4-050fd9d920ab)
 
